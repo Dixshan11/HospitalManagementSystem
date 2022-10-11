@@ -1,0 +1,66 @@
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\bin\Debug\assigenment_hospital.exe.config
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\bin\Debug\assigenment_hospital.exe
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\bin\Debug\assigenment_hospital.pdb
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.csprojAssemblyReference.cache
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.PATINET.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.Properties.Resources.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.csproj.GenerateResource.cache
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.csproj.CoreCompileInputs.cache
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.exe
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.pdb
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\bin\Debug\Database1.mdf
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\bin\Debug\Database1_log.ldf
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\bin\Debug\hospital.mdf
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\bin\Debug\hospital_log.ldf
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.APPONITMENT.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.DOCTOR_VISIT.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.NURSE.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.PAYMENT.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.SUPPLIER.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.doctordash.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.DOCTOR_TYPE.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.INTERFACE.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.admindash.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.DOCTOR.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.CHANGE_PASSWORD.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.creat_password.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.PASSWORD_SETTING.resources
+C:\Users\Dix\source\repos\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.treatment.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.csprojAssemblyReference.cache
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.APPONITMENT.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.CHANGE_PASSWORD.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.creat_password.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.DOCTOR_VISIT.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.doctordash.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.DOCTOR_TYPE.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.INTERFACE.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.admindash.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.DOCTOR.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.NURSE.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.PASSWORD_SETTING.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.PATINET.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.PAYMENT.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.SUPPLIER.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.treatment.resources
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.csproj.GenerateResource.cache
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.exe
+D:\New folder (2)\idm\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.pdb
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.csprojAssemblyReference.cache
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.APPONITMENT.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.CHANGE_PASSWORD.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.creat_password.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.DOCTOR_VISIT.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.doctordash.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.DOCTOR_TYPE.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.INTERFACE.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.admindash.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.DOCTOR.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.NURSE.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.PASSWORD_SETTING.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.PATINET.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.PAYMENT.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.SUPPLIER.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.treatment.resources
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.csproj.GenerateResource.cache
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.exe
+D:\7.IDM\dixshan\1ST SEMI AND 2 END SEMI ASSIGNMENT\DIXHAN\PROGRAMING\source file\assigenment_hospital\assigenment_hospital\obj\Debug\assigenment_hospital.pdb
